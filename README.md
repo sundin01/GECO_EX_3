@@ -1,7 +1,6 @@
 #I like vulcanos
 
-
-data_set = read.deli
+  
 
 
 # The GECO R project template
